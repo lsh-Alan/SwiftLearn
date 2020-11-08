@@ -23,12 +23,15 @@ class Basics4: UIViewController {
         var a:(Int,String) = (1,"hello,world")
         var b = (1,1.11,"hello,world")
         var c = (name1:"name1",name2:"name2")
+        var d:(key1:Int,key2:String) = (1,"")
+        var (key1,key2) = ("","")
+        
         
         
         a.0 = 2
         c.name1 = "xiaoming"
         
-        //元组是值传递 不是引用型
+        //元组赋值是值copy 不是引用型 所以修改不会影响到原元组的值
         
         
         

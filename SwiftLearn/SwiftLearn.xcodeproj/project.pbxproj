@@ -17,6 +17,7 @@
 		8CEBE5692557D16E00C7A4DC /* Basics2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBE5682557D16E00C7A4DC /* Basics2.swift */; };
 		8CEBE56C2557D91900C7A4DC /* Basics3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBE56B2557D91900C7A4DC /* Basics3.swift */; };
 		8CEBE5732557DE1500C7A4DC /* Basics4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBE5722557DE1500C7A4DC /* Basics4.swift */; };
+		8CEBE57625582BDD00C7A4DC /* Basics5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBE57525582BDD00C7A4DC /* Basics5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		8CEBE5682557D16E00C7A4DC /* Basics2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basics2.swift; sourceTree = "<group>"; };
 		8CEBE56B2557D91900C7A4DC /* Basics3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basics3.swift; sourceTree = "<group>"; };
 		8CEBE5722557DE1500C7A4DC /* Basics4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basics4.swift; sourceTree = "<group>"; };
+		8CEBE57525582BDD00C7A4DC /* Basics5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basics5.swift; sourceTree = "<group>"; };
+		8CEBE57A25582D7900C7A4DC /* Doc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Doc.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,10 +74,12 @@
 				8CEBE5682557D16E00C7A4DC /* Basics2.swift */,
 				8CEBE56B2557D91900C7A4DC /* Basics3.swift */,
 				8CEBE5722557DE1500C7A4DC /* Basics4.swift */,
+				8CEBE57525582BDD00C7A4DC /* Basics5.swift */,
 				8CEBE5562557C20000C7A4DC /* Main.storyboard */,
 				8CEBE5592557C20100C7A4DC /* Assets.xcassets */,
 				8CEBE55B2557C20100C7A4DC /* LaunchScreen.storyboard */,
 				8CEBE55E2557C20100C7A4DC /* Info.plist */,
+				8CEBE57A25582D7900C7A4DC /* Doc.h */,
 			);
 			path = SwiftLearn;
 			sourceTree = "<group>";
@@ -151,6 +156,7 @@
 			files = (
 				8CEBE5552557C20000C7A4DC /* ViewController.swift in Sources */,
 				8CEBE5512557C20000C7A4DC /* AppDelegate.swift in Sources */,
+				8CEBE57625582BDD00C7A4DC /* Basics5.swift in Sources */,
 				8CEBE5662557C2B300C7A4DC /* basics1.swift in Sources */,
 				8CEBE5532557C20000C7A4DC /* SceneDelegate.swift in Sources */,
 				8CEBE56C2557D91900C7A4DC /* Basics3.swift in Sources */,
